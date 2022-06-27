@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SlimDogs/sass-ultimate-boilerplate"><img src="https://github.com/SlimDogs/sass-ultimate-boilerplate/blob/master/docs/assets/logo.png?raw=true" alt="Sass ultimate boilerplate" title="Sass ultimate boilerplate" height="200px"></a>
+  <a href="https://github.com/SlimDogs/sass-ultimate-boilerplate"><img src="img/dropdownmenu.gif" alt="Sass ultimate boilerplate" title="Sass ultimate boilerplate" height="200px"></a>
 </p>
 
 <p align="center">
